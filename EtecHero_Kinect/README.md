@@ -1,1 +1,0 @@
-![](meukinect/Resources/pic.png)
